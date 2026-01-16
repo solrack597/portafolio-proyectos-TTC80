@@ -10,4 +10,4 @@ Portafolio de los proyectos realizados en el bootcamp
 
 ## Sprint 4: Procesamiento de datos ll
 
-## Sprint 5: Análisis estadístico de datos. xdddd
+## Sprint 5: Análisis estadístico de datos.

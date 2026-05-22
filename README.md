@@ -4,7 +4,7 @@ Portafolio de los proyectos realizados en el bootcamp
 
 ## [Sprint 1 Python Basico](./Sprint_1/limpieza_de_datos.ipynb)
 
-## Sprint 2 Python Basico ll
+## [Sprint 2 Python Basico ll](./Sprint_2/funciones_limpieza_datos.ipynb)
 
 ## Sprint 3: Procesamiento de datos 1
 
